@@ -7,6 +7,7 @@
 concurrency/flags/img/*.gif
 concurrency/charfinder/charfinder_index.pickle
 18-asyncio/charfinder/charfinder_index.pickle
+*charfinder_index.pickle
 metaprog/oscon-schedule/data/schedule?_db
 concurrency/wikipedia/fixture/docroot/
 17-futures/countries/flags/
